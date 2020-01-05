@@ -7,6 +7,7 @@ status: publish
 author: SiHuan
 categories: 
   - Maverick
+  - Wiki
 tags: 
   - about
 ---

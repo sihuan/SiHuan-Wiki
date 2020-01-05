@@ -16,7 +16,7 @@ index_page_size = 10
 archives_page_size = 20
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "Si-Huan/SiHuan-Blog@gh-pages"
+    "repo": "Si-Huan/SiHuan-Wiki@gh-pages"
 }
 
 # 站点设置
@@ -31,7 +31,7 @@ key_words = ['SiHuan', '思还', 'Wiki', '维基', 'GitWiki']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "SiHuan-Blog
+        "name": "SiHuan-Blog",
         "url": "http://blog.sakuya.love",
         "brief": "我的博客。"
     }

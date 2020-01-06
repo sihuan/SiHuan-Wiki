@@ -1,0 +1,9 @@
+{
+  "name" : "Wiki",
+  "fileExtension" : ".md",
+  "autoUploadInsertedImage" : false,
+  "folderType" : 10,
+  "mediaFloder" : ".\/assets\/",
+  "orderBy" : 0,
+  "newlinesToBR" : 0
+}

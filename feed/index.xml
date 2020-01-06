@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SiHuan's Wiki</title><link>/</link><description>道阻且长，君子思还。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/logo.png</url><title>SiHuan's Wiki</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 05 Jan 2020 13:05:45 +0806</lastBuildDate><pubDate>Sun, 05 Jan 2020 13:05:45 +0806</pubDate><item><title>简单看一下 Markdown 的用法</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例，康康显示效果，同时也是 Markdown 语法的参考文章。&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SiHuan's Wiki</title><link>/</link><description>道阻且长，君子思还。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/logo.png</url><title>SiHuan's Wiki</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Mon, 06 Jan 2020 03:55:12 +0806</lastBuildDate><pubDate>Mon, 06 Jan 2020 03:55:12 +0806</pubDate><item><title>简单看一下 Markdown 的用法</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例，康康显示效果，同时也是 Markdown 语法的参考文章。&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -78,10 +78,54 @@
 &lt;/table&gt;
 &lt;h2&gt;Link Card&lt;/h2&gt;
 &lt;div class="links"&gt;
-&lt;a style="display:block" target="_blank" href="https://www.github.com/Si-Huan" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://i.loli.net/2020/01/05/vWePBtaLX1qxzkC.jpg"&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;SiHuan&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;SiHuan's github page. &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</description><author>sihuan@sakuya.love (SiHuan)</author><guid isPermaLink="true">/archives/typography/</guid><pubDate>Wed, 01 Jan 2020 16:50:00 +0806</pubDate></item><item><title>电荷的量子化</title><link>/archives/电荷的量子化/</link><description>&lt;h2&gt;先放个公式吧&lt;/h2&gt;
-&lt;p&gt;$$
-E=mc^2
+&lt;a style="display:block" target="_blank" href="https://www.github.com/Si-Huan" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://i.loli.net/2020/01/05/vWePBtaLX1qxzkC.jpg"&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;SiHuan&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;SiHuan's github page. &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</description><author>sihuan@sakuya.love (SiHuan)</author><guid isPermaLink="true">/archives/typography/</guid><pubDate>Wed, 01 Jan 2020 16:50:00 +0806</pubDate></item><item><title>电荷的量子化 电荷守恒定律 静电场</title><link>/archives/电荷的量子化 电荷守恒定律 静电场/</link><description>&lt;h2&gt;电荷的量子化&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;电荷的种类：正电荷、负电荷&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;电荷的性质：同种相斥、异种相吸&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;电荷的度量：库仑($C$)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;电荷的量子化：$q=\pm n e \quad(n=1,2,3, \cdots)$&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;$e=1.602 \times 10^{-19} \mathrm{C}$&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;电荷守恒定律&lt;/h2&gt;
+&lt;blockquote&gt;&lt;p&gt;没啥好说的，多看课本。 ——奥斯汀·郑&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;电场&lt;/h2&gt;
+&lt;h3&gt;电场的物质性&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;物质间的作用需要借助物质(实物或场),作用的传递需要时间&lt;/li&gt;
+&lt;li&gt;任何带电体(电荷)周围都存在电场&lt;/li&gt;
+&lt;li&gt;电荷间的作用是通过电场传递的&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;电场是一种物质，有能量，动量等物质属性&lt;/p&gt;
+&lt;p&gt;### 电场的基本性质&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;电场对其内任何电荷都有作用力&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;电场力对移动的电荷做功&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;静电场&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;相对于观察者静止的电荷产生的电场&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;是电磁场的一种特殊形式&lt;/p&gt;
+&lt;p&gt;### 静电力(电场力)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;电场对处在其中的其他电荷的作用力&lt;/p&gt;
+&lt;p&gt;电荷之间相互作用的本质是&lt;strong&gt;一个电荷产生的电场作用在另一个电荷上的电场力&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;静电力叠加原理&lt;/h3&gt;
+&lt;blockquote&gt;&lt;p&gt;字面意思,矢量和&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2&gt;库仑定律&lt;/h2&gt;
+&lt;p&gt;$q_1$受$q_2$的力
+$$
+\vec{F}=\frac{1}{4 \pi \varepsilon&lt;em&gt;{0}} \frac{q&lt;/em&gt;{1} q&lt;em&gt;{2}}{r^{2}} \vec{e}&lt;/em&gt;{r}
 $$&lt;/p&gt;
-&lt;p&gt;这个图片版的&lt;/p&gt;
-&lt;p&gt;&lt;figure class="pswp-item" style="flex: 91.66666666666667" data-width="132" data-height="72"&gt;&lt;img src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/424f7887caf08263ee0849bfafedbef3.png" alt="image-20200105205715233" /&gt;&lt;figcaption&gt;image-20200105205715233&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-</description><author>sihuan@sakuya.love (SiHuan)</author><guid isPermaLink="true">/archives/电荷的量子化/</guid><pubDate>Sun, 05 Jan 2020 16:50:00 +0806</pubDate></item></channel></rss>
+&lt;blockquote&gt;&lt;p&gt;$\varepsilon_{0}=8.85 \times 10^{-12} \mathrm{C}^{2} \cdot \mathrm{N}^{-1} \cdot \mathrm{m}^{-2}$ 为真空电容率(真空介电常数)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;figure class="pswp-item" style="flex: 245.80152671755727" data-width="644" data-height="131"&gt;&lt;img src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/aa614f748d84932566191ad12b15a339.png" alt="" /&gt;&lt;/figure&gt;&lt;/p&gt;
+</description><author>sihuan@sakuya.love (SiHuan)</author><guid isPermaLink="true">/archives/电荷的量子化 电荷守恒定律 静电场/</guid><pubDate>Sun, 05 Jan 2020 16:50:00 +0806</pubDate></item></channel></rss>

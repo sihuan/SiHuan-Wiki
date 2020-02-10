@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>SiHuan's Wiki</title><updated>2020-02-05T09:19:53.354835+08:06</updated><author><name>SiHuan</name><email>sihuan@sakuya.love</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/logo.png</logo><subtitle>道阻且长，君子思还。</subtitle><entry><id>/archives/typography/</id><title>简单看一下 Markdown 的用法</title><updated>2020-02-05T09:19:53.355039+00:00</updated><author><name>SiHuan</name><email>sihuan@sakuya.love</email><uri>https://www.sakuya.love</uri></author><content>&lt;div class="notice"&gt;这是一篇示例，康康显示效果，同时也是 Markdown 语法的参考文章。&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>SiHuan's Wiki</title><updated>2020-02-10T14:06:26.724778+08:06</updated><author><name>SiHuan</name><email>sihuan@sakuya.love</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/logo.png</logo><subtitle>道阻且长，君子思还。</subtitle><entry><id>/archives/typography/</id><title>简单看一下 Markdown 的用法</title><updated>2020-02-10T14:06:26.725100+00:00</updated><author><name>SiHuan</name><email>sihuan@sakuya.love</email><uri>https://www.sakuya.love</uri></author><content>&lt;div class="notice"&gt;这是一篇示例，康康显示效果，同时也是 Markdown 语法的参考文章。&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -78,7 +78,7 @@
 &lt;/table&gt;
 &lt;h2&gt;Link Card&lt;/h2&gt;
 &lt;div class="links"&gt;
-&lt;a style="display:block" target="_blank" href="https://www.github.com/Si-Huan" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://i.loli.net/2020/01/05/vWePBtaLX1qxzkC.jpg"&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;SiHuan&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;SiHuan's github page. &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/typography/" rel="alternate"/><published>2020-01-01T16:50:00+08:06</published></entry><entry><id>/archives/电荷的量子化 电荷守恒定律 静电场/</id><title>电荷的量子化 电荷守恒定律 静电场</title><updated>2020-02-05T09:19:53.355007+00:00</updated><author><name>SiHuan</name><email>sihuan@sakuya.love</email><uri>https://www.sakuya.love</uri></author><content>&lt;h2&gt;电荷的量子化&lt;/h2&gt;
+&lt;a style="display:block" target="_blank" href="https://www.github.com/Si-Huan" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://i.loli.net/2020/01/05/vWePBtaLX1qxzkC.jpg"&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;SiHuan&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;SiHuan's github page. &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/typography/" rel="alternate"/><published>2020-01-01T16:50:00+08:06</published></entry><entry><id>/archives/电荷的量子化 电荷守恒定律 静电场/</id><title>电荷的量子化 电荷守恒定律 静电场</title><updated>2020-02-10T14:06:26.725065+00:00</updated><author><name>SiHuan</name><email>sihuan@sakuya.love</email><uri>https://www.sakuya.love</uri></author><content>&lt;h2&gt;电荷的量子化&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;电荷的种类：正电荷、负电荷&lt;/p&gt;
 &lt;/li&gt;
@@ -125,7 +125,7 @@ $$\vec{F}=\frac{1}{4 \pi \varepsilon_{0}} \frac{q_{1} q_{2}}{r^{2}} \vec{e}_{r}$
 &lt;blockquote&gt;&lt;p&gt;$\varepsilon_{0}=8.85 \times 10^{-12} \mathrm{C}^{2} \cdot \mathrm{N}^{-1} \cdot \mathrm{m}^{-2}$ 为真空电容率(真空介电常数)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="644" data-height="131" src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/aa614f748d84932566191ad12b15a339.png" alt="" /&gt;&lt;/figure&gt;&lt;/p&gt;
-</content><link href="/archives/电荷的量子化 电荷守恒定律 静电场/" rel="alternate"/><published>2020-01-05T16:50:00+08:06</published></entry><entry><id>/archives/电磁学题型/</id><title>电磁学题型</title><updated>2020-02-05T09:19:53.354971+00:00</updated><author><name>SiHuan</name><email>sihuan@sakuya.love</email><uri>https://www.sakuya.love</uri></author><content>&lt;h2&gt;求带电体周围某处的场强&lt;/h2&gt;
+</content><link href="/archives/电荷的量子化 电荷守恒定律 静电场/" rel="alternate"/><published>2020-01-05T16:50:00+08:06</published></entry><entry><id>/archives/电磁学题型/</id><title>电磁学题型</title><updated>2020-02-10T14:06:26.725029+00:00</updated><author><name>SiHuan</name><email>sihuan@sakuya.love</email><uri>https://www.sakuya.love</uri></author><content>&lt;h2&gt;求带电体周围某处的场强&lt;/h2&gt;
 &lt;h3&gt;带电量为$+q_1$的点电荷.&lt;/h3&gt;
 &lt;p&gt;场强大小:&lt;br&gt;
 $$E=\frac{q}{4 \pi \varepsilon_{0} r^{2}}$$
@@ -210,7 +210,7 @@ $$
 &lt;p&gt;Sunita 20:00&lt;/p&gt;
 &lt;p&gt;Bye.&lt;/p&gt;
 &lt;p&gt;Sunita has closed the chat.&lt;/p&gt;
-</content><link href="/archives/电磁学题型/" rel="alternate"/><published>2020-01-08T16:50:00+08:06</published></entry><entry><id>/archives/电通量AND高斯定理/</id><title>电通量、高斯定理</title><updated>2020-02-05T09:19:53.354913+00:00</updated><author><name>SiHuan</name><email>sihuan@sakuya.love</email><uri>https://www.sakuya.love</uri></author><content>&lt;h2&gt;求通过某个面的电通量&lt;/h2&gt;
+</content><link href="/archives/电磁学题型/" rel="alternate"/><published>2020-01-08T16:50:00+08:06</published></entry><entry><id>/archives/电通量AND高斯定理/</id><title>电通量、高斯定理</title><updated>2020-02-10T14:06:26.724992+00:00</updated><author><name>SiHuan</name><email>sihuan@sakuya.love</email><uri>https://www.sakuya.love</uri></author><content>&lt;h2&gt;求通过某个面的电通量&lt;/h2&gt;
 &lt;h3&gt;点电荷，球面&lt;/h3&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="1225" data-height="687" src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/122193b6fc25d0669c55e25c23b5d85b.jpg" alt="" /&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;带电直线，圆柱体&lt;/h3&gt;
@@ -228,4 +228,36 @@ $$
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="700" data-height="676" src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/1921b1e249f245c6e18f63acfdcf6599.jpg" alt="" /&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;电通量、高斯定理注意点&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="688" data-height="496" src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/0e2591f3e245eb269aac4407baff6c07.jpg" alt="" /&gt;&lt;/figure&gt;&lt;/p&gt;
-</content><link href="/archives/电通量AND高斯定理/" rel="alternate"/><published>2020-02-05T16:50:00+08:06</published></entry></feed>
+</content><link href="/archives/电通量AND高斯定理/" rel="alternate"/><published>2020-02-05T16:50:00+08:06</published></entry><entry><id>/archives/电介质中的高斯定理/</id><title>电介质中的高斯定理</title><updated>2020-02-10T14:06:26.724948+00:00</updated><author><name>SiHuan</name><email>sihuan@sakuya.love</email><uri>https://www.sakuya.love</uri></author><content>&lt;h2&gt;用电介质中的高斯定理求场强&lt;/h2&gt;
+&lt;h3&gt;步骤&lt;/h3&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="442" data-height="111" src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/0118d8b187dc325a3f6be934cabd6c9a.jpg" alt="" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h3&gt;例子&lt;/h3&gt;
+&lt;p&gt;1.当没有电介质&lt;figure&gt;&lt;img data-width="656" data-height="450" src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/6ecc24c8fec6fe75da08d8d3e658ce41.jpg" alt="" /&gt;&lt;/figure&gt;
+2.将 $\Phi_{e}$ 改成 $\varepsilon_{r} \phi_{S} E \cdot d S$
+&lt;figure&gt;&lt;img data-width="264" data-height="305" src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/17e1496a3ce8e12954b4edf148cf21dd.jpg" alt="" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;求极化电荷或束缚电荷&lt;/h2&gt;
+&lt;h3&gt;步骤&lt;/h3&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="491" data-height="196" src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/642a8e107e5be8818ed35fa5c14e7c4b.jpg" alt="" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h3&gt;例子&lt;/h3&gt;
+</content><link href="/archives/电介质中的高斯定理/" rel="alternate"/><published>2020-02-05T17:20:00+08:06</published></entry><entry><id>/archives/材料力学的任务和研究对象/</id><title>材料力学的任务和研究对象</title><updated>2020-02-10T14:06:26.724873+00:00</updated><author><name>SiHuan</name><email>sihuan@sakuya.love</email><uri>https://www.sakuya.love</uri></author><content>&lt;h1&gt;一、材料力学的任务&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;材料力学是研究构件承载能力的一门学科。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;工程结构或机械的各组成部分统称为构件。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;工程结构或机械的各组成部分统称为构件&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;承载能力&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="607" data-height="402" src="https://tva1.sinaimg.cn/large/0082zybply1gbrhmtkvakj30gv0b6tbw.jpg" alt="image-20200210183638221" /&gt;&lt;figcaption&gt;image-20200210183638221&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;强度&lt;/strong&gt;：构件抵抗&lt;em&gt;破坏&lt;/em&gt;的能力。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;破坏：显著的&lt;strong&gt;塑性变形&lt;/strong&gt;或&lt;strong&gt;断裂&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;刚度&lt;/strong&gt;：构件抵抗&lt;em&gt;变形&lt;/em&gt;的能力&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;弹性变形&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</content><link href="/archives/材料力学的任务和研究对象/" rel="alternate"/><published>2020-02-10T11:06:00+08:06</published></entry></feed>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SiHuan's Wiki</title><link>/</link><description>道阻且长，君子思还。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/logo.png</url><title>SiHuan's Wiki</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 13 Feb 2020 04:10:31 +0806</lastBuildDate><pubDate>Thu, 13 Feb 2020 04:10:31 +0806</pubDate><item><title>简单看一下 Markdown 的用法</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例，康康显示效果，同时也是 Markdown 语法的参考文章。&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SiHuan's Wiki</title><link>/</link><description>道阻且长，君子思还。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/logo.png</url><title>SiHuan's Wiki</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Fri, 14 Feb 2020 03:48:12 +0806</lastBuildDate><pubDate>Fri, 14 Feb 2020 03:48:12 +0806</pubDate><item><title>简单看一下 Markdown 的用法</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例，康康显示效果，同时也是 Markdown 语法的参考文章。&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -290,7 +290,43 @@ $$
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="499" data-height="152" src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/c82d4f069899f94d14b8753622ee2648.png" alt="横向" /&gt;&lt;figcaption&gt;横向&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="454" data-height="345" src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/2810eedf4b10a5aedfe9fa44c464c77d.png" alt="直杆" /&gt;&lt;figcaption&gt;直杆&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="459" data-height="136" src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/946a8d5e0f6f4093e2175b9de15828b5.png" alt="曲杆" /&gt;&lt;figcaption&gt;曲杆&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-</description><author>sihuan@sakuya.love (SiHuan)</author><guid isPermaLink="true">/archives/材料力学的任务和研究对象/</guid><pubDate>Mon, 10 Feb 2020 11:06:00 +0806</pubDate></item><item><title>随机事件</title><link>/archives/随机事件/</link><description>&lt;h1&gt;随机事件&lt;/h1&gt;
+</description><author>sihuan@sakuya.love (SiHuan)</author><guid isPermaLink="true">/archives/材料力学的任务和研究对象/</guid><pubDate>Mon, 10 Feb 2020 11:06:00 +0806</pubDate></item><item><title>变形固体的基本假设</title><link>/archives/变形固体的基本假设/</link><description>&lt;script src="mermaid.min.js"&gt;&lt;/script&gt; &lt;script&gt;mermaid.initialize({startOnLoad:true});&lt;/script&gt;&lt;h1&gt;1.为什么要做假设?&lt;/h1&gt;
+&lt;div class = "mermaid"&gt;
+graph LR
+A[材料的微观结构和性能复杂]--&gt;C(复杂的数学和力学问题)
+B[工程构件与理想的力学状态有偏差]--&gt;C
+C--&gt;D(难以工程应用)
+&lt;/div&gt;&lt;p&gt;&lt;strong&gt;基本假设是学科研究的基础。&lt;/strong&gt;&lt;/p&gt;
+&lt;h1&gt;2.变形固体的基本假设&lt;/h1&gt;
+&lt;h2&gt;(1) 关于材料性质的假定&lt;/h2&gt;
+&lt;blockquote&gt;&lt;p&gt;材料力学研究的是材料的宏观力学行为。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;连续性假设&lt;/strong&gt;: 物质密实地充满物体所在空间，亳无空隙&lt;/p&gt;
+&lt;p&gt;作用：引入无限小概念，可以进行极限、积分、微分的运算。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;均匀性假设&lt;/strong&gt;: 认为物体内的任何部分，其力学性能相同&lt;/p&gt;
+&lt;p&gt;固体的力学性质是各晶粒力学性能的统计平均值。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;各向同性假设&lt;/strong&gt;: 在物体内各个不同方向力学性能相同。&lt;/p&gt;
+&lt;p&gt;多晶聚集体的金属，呈随机取向，因而在宏观上表现为各向同性。&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Tips: 各向异性：沿不同的方向力学性能不同，如：木材、胶合板、竹子。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;(2) 关于变形的假定——小变形&lt;/h2&gt;
+&lt;blockquote&gt;&lt;p&gt;绝大多数的工程构件都工作在小变形状态下。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;原始尺寸原理&lt;/h3&gt;
+&lt;p&gt;变形远小于构件的原始尺寸，所以通过静力平衡求各杆受力时，把变形略去不计。&lt;/p&gt;
+&lt;h3&gt;小变形假定带来的方便&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;可以在未变形的构形中进行计算。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;二阶微量可以忽略，使问题线性化。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description><author>sihuan@sakuya.love (SiHuan)</author><guid isPermaLink="true">/archives/变形固体的基本假设/</guid><pubDate>Wed, 12 Feb 2020 11:06:00 +0806</pubDate></item><item><title>随机事件</title><link>/archives/随机事件/</link><description>&lt;h1&gt;随机事件&lt;/h1&gt;
 </description><author>sihuan@sakuya.love (SiHuan)</author><guid isPermaLink="true">/archives/随机事件/</guid><pubDate>Wed, 12 Feb 2020 11:06:00 +0806</pubDate></item><item><title>概率论与数理统计课程说明</title><link>/archives/概率论与数理统计课程说明/</link><description>&lt;h1&gt;概率论与数理统计的研究对象&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;随机现象及其规律性&lt;/li&gt;
@@ -317,4 +353,48 @@ $$
 &lt;/ol&gt;
 &lt;h3&gt;数理统计研究问题的方法&lt;/h3&gt;
 &lt;p&gt;从研究对象全体中随机抽取一部分进行试验或观测，以获得试验数据，由此数据所得信息对整体作出推断.&lt;/p&gt;
-</description><author>sihuan@sakuya.love (SiHuan)</author><guid isPermaLink="true">/archives/概率论与数理统计课程说明/</guid><pubDate>Wed, 12 Feb 2020 11:06:00 +0806</pubDate></item></channel></rss>
+</description><author>sihuan@sakuya.love (SiHuan)</author><guid isPermaLink="true">/archives/概率论与数理统计课程说明/</guid><pubDate>Wed, 12 Feb 2020 11:06:00 +0806</pubDate></item><item><title>外力、内力与应力</title><link>/archives/外力内里与应力/</link><description>&lt;script src="mermaid.min.js"&gt;&lt;/script&gt; &lt;script&gt;mermaid.initialize({startOnLoad:true});&lt;/script&gt;&lt;h1&gt;1.外力及其分类&lt;/h1&gt;
+&lt;h2&gt;定义&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;研究对象受到的周围物体的作用力。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;外”是相对于“内”而言的，研究问题时要确定研究对象！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;外力分类&lt;/h2&gt;
+&lt;div class="mermaid"&gt;
+graph LR
+A((外力))--&gt;B{按作用方式}
+A--&gt;C{按随时间变化}
+B--&gt;D(体积力)
+B--&gt;E(表面力)
+E--&gt;|受力面大| F[分布载荷]
+E--&gt;|受力集中,点接触| G[集中力]
+C--&gt;H(静载荷)
+C--&gt;I(动载荷)
+I--&gt;|周期变化| J[交变载荷]
+I--&gt;|短时间冲击| K[冲击载荷]
+&lt;/div&gt;&lt;h1&gt;2.内力&lt;/h1&gt;
+&lt;h2&gt;定义&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;指由外力作用所引起的、物体内相邻部分之间相互用力（附加内力）。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;内力的求法——截面法&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;第 1 步：截开。在所求内力的截面处，假想地用截面将杆件一分为二。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;第 2 步：代替。任取一部分，其弃去部分对留下部分的作用，用作用在截面上相应的内力代替。&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="328" data-height="349" src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/f244ebf651ea0a9caf308f96f50fcbe7.png" alt="截开并任取一部分" /&gt;&lt;figcaption&gt;截开并任取一部分&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;&lt;p&gt;内力的两个特点&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;内力在截面上是连续分布的，是一个分布力系&lt;/li&gt;
+&lt;li&gt;当取出研究对象之后，内力就变成了外力，自然要满足力的平衡条件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;第 3 步：平衡。对留下的部分建立平衡方程，根据其上的已知外力来计算杆在截开面上的未知内力&lt;em&gt;（此时截开面上的内力对所留部分而言是外力）&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;&lt;p&gt;静力等效：内力通过截面形心上的合力表示。&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="547" data-height="360" src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/f493f6428e60791323fdf61485202ef6.png" alt="分解之后" /&gt;&lt;figcaption&gt;分解之后&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;将主矢主矩分解到三个方向上。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;材料力学所指的内力是指分布内力系的合力&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="1044" data-height="401" src="https://cdn.jsdelivr.net/gh/Si-Huan/SiHuan-Wiki@gh-pages/archives/assets/5b6683d3befe017f7283d731ace0a833.png" alt="不同方向的变形" /&gt;&lt;figcaption&gt;不同方向的变形&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</description><author>sihuan@sakuya.love (SiHuan)</author><guid isPermaLink="true">/archives/外力内里与应力/</guid><pubDate>Fri, 14 Feb 2020 11:06:00 +0806</pubDate></item></channel></rss>

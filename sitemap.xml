@@ -12,8 +12,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+    <loc>/archives/Izayoi Sakuya/</loc>
+    <lastmod>2020-05-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>/archives/外力内里与应力/</loc>
     <lastmod>2020-02-14</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/变形固体的基本假设/</loc>
+    <lastmod>2020-02-12</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
@@ -27,13 +41,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
     <loc>/archives/随机事件/</loc>
-    <lastmod>2020-02-12</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
-    <loc>/archives/变形固体的基本假设/</loc>
     <lastmod>2020-02-12</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
